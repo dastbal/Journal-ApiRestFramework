@@ -5,17 +5,17 @@ Django Rest Framework
 [Journal Demo](https://www.youtube.com/watch?v=PWzL_aRnZ5o)
 
 # Endpoints
-journal/
-login/
+- journal/
+- login/
 
 
 # Development Environment
 
--Visual Studio Code
--Git 
--Python
--Django
--Django Rest framework
+- Visual Studio Code
+- Git 
+- Python
+- Django
+- Django Rest framework
 
 # Useful Websites
 
