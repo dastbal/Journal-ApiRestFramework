@@ -19,7 +19,7 @@ Django Rest Framework
 
 # Useful Websites
 
-* [Django Rest Framework]([http://url.link.goes.here](https://www.django-rest-framework.org/))
+* [Django Rest Framework](https://www.django-rest-framework.org/)
 
 # Future Work
 
